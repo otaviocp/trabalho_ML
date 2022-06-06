@@ -7,5 +7,6 @@
 4) Os arquivos "n_data.csv" e "y_resampled.csv" se referem à base de dados já tratada e não são essenciais para a execução do programa.
 
 5) Os arquivos também podem ser acessados em: https://drive.google.com/drive/folders/1WEib6Uro7A6Fea6FHqgawytEeEwaM0Wn?usp=sharing
+  Ou: https://github.com/otaviocp/trabalho_ML.git
 
 
