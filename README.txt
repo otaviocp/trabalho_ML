@@ -1,6 +1,6 @@
-1) O relatório do trabalho é o arquivo "SCC0276 - Projeto - parte 2.pdf".
+1) O relatório do trabalho é o arquivo "SCC0276 - Projeto - Parte 3.pdf".
 
-2) O Notebook utilizado para o desenvolvimento do código no Colab é o "T2_10716525_10716608.ipynb".
+2) O Notebook utilizado para o desenvolvimento do código no Colab é o "T3_10716525_10716608.ipynb".
 
 3) A base de dados utilizada neste trabalho está no arquivo "heart_2020_cleaned.csv".
 
